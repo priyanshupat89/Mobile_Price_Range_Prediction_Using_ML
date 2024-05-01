@@ -17,5 +17,6 @@ Instructions:
 Install dependencies: pip3 install django pandas seaborn virtualenv matplotlib
 Update "views.py" with the correct path to "mobile_data.csv".
 Run the Django server: python manage.py runserver
+
 Screenshots:
 
